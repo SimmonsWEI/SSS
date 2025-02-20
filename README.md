@@ -3,4 +3,5 @@ Environment: Pip install the ultralytics package including all [requirements](ht
 SeabedObjects-KLSG--II dataset download link: https://drive.google.com/file/d/1lao8VSbycjlSpctpaeKO0Vfn8H-TGEtj/view?usp=sharing
 
 Journal of Electronic Imaging (JEI) Code:/models/v8
+The trained model:https://huggingface.co/SimmonsWEI/CSTC-YOLOv8/tree/main
 
